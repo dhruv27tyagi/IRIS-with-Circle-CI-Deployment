@@ -1,0 +1,8 @@
+2025-07-24 12:03:58,439 - INFO - Model Training initialised
+2025-07-24 12:03:58,469 - INFO - Data Loaded Successfully ... 
+2025-07-24 12:03:58,473 - INFO - Model trained and saved succesfully....
+2025-07-24 12:03:58,479 - INFO - Accuracy Score : 1.0
+2025-07-24 12:03:58,479 - INFO - Precision Score : 1.0
+2025-07-24 12:03:58,479 - INFO - Recall Score : 1.0
+2025-07-24 12:03:58,479 - INFO - F1 Score : 1.0
+2025-07-24 12:04:01,085 - INFO - Confusion matrix saved successfully
