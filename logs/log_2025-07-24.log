@@ -6,3 +6,16 @@
 2025-07-24 12:03:58,479 - INFO - Recall Score : 1.0
 2025-07-24 12:03:58,479 - INFO - F1 Score : 1.0
 2025-07-24 12:04:01,085 - INFO - Confusion matrix saved successfully
+2025-07-24 12:39:52,341 - INFO - Read the data successfuly
+2025-07-24 12:39:52,341 - INFO - Starting Handle outlier operation
+2025-07-24 12:39:52,347 - INFO - Handled Outliers successfully
+2025-07-24 12:39:52,353 - INFO - Data Splitted successfuly
+2025-07-24 12:39:52,358 - INFO - Files saved successfully for Data Processing step... 
+2025-07-24 12:39:52,358 - INFO - Model Training initialised
+2025-07-24 12:39:52,364 - INFO - Data Loaded Successfully ... 
+2025-07-24 12:39:52,370 - INFO - Model trained and saved succesfully....
+2025-07-24 12:39:52,376 - INFO - Accuracy Score : 1.0
+2025-07-24 12:39:52,376 - INFO - Precision Score : 1.0
+2025-07-24 12:39:52,376 - INFO - Recall Score : 1.0
+2025-07-24 12:39:52,376 - INFO - F1 Score : 1.0
+2025-07-24 12:39:52,672 - INFO - Confusion matrix saved successfully
